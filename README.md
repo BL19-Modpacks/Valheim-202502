@@ -19,7 +19,7 @@ This is a Valheim modpack that I created for me and my friends and our playsessi
 | [CraftyCartsRemake](https://thunderstore.io/c/valheim/p/OdinPlus/CraftyCartsRemake/)                      | OdinPlus-CraftyCartsRemake-3.1.6             | Mod                |
 | [BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/)        | CW_Jesse-BetterNetworking_Valheim-2.3.2      | Mod                |
 | [TimedTorchesStayLit](https://thunderstore.io/c/valheim/p/TastyChickenLegs/TimedTorchesStayLit/)          | TastyChickenLegs-TimedTorchesStayLit-1.3.8   | Mod                |
-| [MultiUserChest](https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/)                         | MSchmoecker-MultiUserChest-0.6.0             | Mod                |
+| [MultiUserChest](https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/)                         | MSchmoecker-MultiUserChest-0.6.1             | Mod                |
 | [Coal Control](https://thunderstore.io/c/valheim/p/MaxFoxGaming/Coal_Control/)                            | MaxFoxGaming-Coal_Control-1.0.1              | Mod                |
 | [ConversionSizeAndSpeed](https://thunderstore.io/c/valheim/p/Smoothbrain/ConversionSizeAndSpeed/)         | Smoothbrain-ConversionSizeAndSpeed-1.0.17    | Mod                |
 
