@@ -10,7 +10,7 @@ This is a Valheim modpack that I created for me and my friends and our playsessi
 | [Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/)                                      | ValheimModding-Jotunn-2.23.2                 | Dependency/Library |
 | [ItemDrawers](https://thunderstore.io/c/valheim/p/makail/ItemDrawers/)                                    | makail-ItemDrawers-0.5.8                     | Mod                |
 | [Mount Up Restored](https://thunderstore.io/c/valheim/p/Meldurson/MountUpRestored/)                       | Meldurson-MountUpRestored-3.4.1              | Mod                |
-| [MissingPieces](https://thunderstore.io/c/valheim/p/BentoG/MissingPieces/)                                | BentoG-MissingPieces-2.2.1                   | Mod                |
+| [MissingPieces](https://thunderstore.io/c/valheim/p/BentoG/MissingPieces/)                                | BentoG-MissingPieces-2.2.2                   | Mod                |
 | [Heightmap Unlimited Remake](https://thunderstore.io/c/valheim/p/Digitalroot/Heightmap_Unlimited_Remake/) | Digitalroot-Heightmap_Unlimited_Remake-1.4.1 | Mod                |
 | [Max Dungeon Rooms](https://thunderstore.io/c/valheim/p/Digitalroot/Max_Dungeon_Rooms/)                   | Digitalroot-Max_Dungeon_Rooms-2.0.37         | Mod                |
 | ~[SpeedyPaths](https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/)                                   | Nextek-SpeedyPaths-1.0.8                     | Mod                |
